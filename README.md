@@ -2,6 +2,9 @@
 
 --Need Cmake to compile--
 
+(We can compile it on Visual Studio it's really easy)
+
+
 student project:
 
 Pierre Bastiani - structure & a little of all
